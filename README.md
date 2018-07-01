@@ -1,0 +1,2 @@
+# superalex.club
+Static Page
